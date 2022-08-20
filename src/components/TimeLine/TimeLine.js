@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I am a bilingual Mechanical Engineer / IBM Certified Data Scientist with experience in project leadership and data analysis. With advanced knowledge in Python, SQL, R, Deep Learning, and Machine Learning. Analytical skills, continuous learning and adaptability to change.
+      Data Scientist with extensive experience in data modeling using machine learning, business intelligence, and managing the overall data flow and data processing and modeling process. Proven ability to develop business solutions by analyzing and interpreting data to create value. 
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
