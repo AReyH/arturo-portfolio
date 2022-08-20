@@ -19,6 +19,7 @@
     "styled-normalize": "^8.0.7"
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^4.0.0",
+    "postcss":"^8.4.16"
   }
 }
