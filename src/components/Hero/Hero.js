@@ -13,9 +13,11 @@ const Hero = (props) => (
       <SectionText>
         Data Scientist - Mechanical Engineer.
       </SectionText>
-      <Button onClick={() => window.location = 'https://www.linkedin.com/in/ingarturorey/'}>Learn More</Button>
+      
     </LeftSection>
   </Section>
 );
 
 export default Hero;
+
+//<Button onClick={() => window.location = 'https://www.linkedin.com/in/ingarturorey/'}>Learn More</Button>

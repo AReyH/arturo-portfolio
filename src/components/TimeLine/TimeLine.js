@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      Data Scientist with extensive experience in data modeling using machine learning, business intelligence, and managing the overall data flow and data processing and modeling process. Proven ability to develop business solutions by analyzing and interpreting data to create value. 
+      Data Scientist with extensive experience in data modeling using machine learning, business intelligence, and managing the overall data flow, data processing and modeling process. Proven ability to develop business solutions by analyzing and interpreting data to create value. 
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
