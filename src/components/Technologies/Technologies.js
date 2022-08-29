@@ -1,6 +1,6 @@
 import React from 'react';
 import { DiFirebase, DiReact, DiZend,DiPython,DiJavascript,DiNodejs } from 'react-icons/di';
-import { SiTensorflow,SiScikitlearn } from 'react-icons/si';
+import { SiTensorflow,SiMicrosoftazure,SiScikitlearn } from 'react-icons/si';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -72,6 +72,16 @@ const Technologies = () =>  (
           <ListParagraph>
           1+ years of experience <br/>
           with Node.js
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <SiMicrosoftazure size='3rem'/>
+        <ListContainer>
+          <ListTitle>Azure</ListTitle>
+          <ListParagraph>
+          1+ years of experience <br/>
+          with Azure
           </ListParagraph>
         </ListContainer>
       </ListItem>
