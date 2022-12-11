@@ -9,13 +9,22 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Music Generation Using Recurrent Neural Netowrks',
+    description: "Recurrent Neural Network trained on a dataset of LoFi songs and sounds, which generates full length LoFi songs which are then uploaded to SoundCloud. Authored article on Medium about the subject, and published by MLearning.ai.",
+    image: '/images/shapes.PNG',
+    tags: ['Tensorflow','Keras','LoFi','Music Generation'],
+    source: 'https://arturorey.medium.com/how-to-generate-music-using-machine-learning-72360ba4a085',
+    visit: 'https://soundcloud.com/lullabai1',
+    id: 3,
+  },
+  {
     title: 'Shape Predictor with Javascript Canvas',
     description: "Web app created using React as frontend and Flask as backend. The app allows you to draw a shape on a canvas a predicts the shape using a MobileNet V2.0 network architecture. ",
     image: '/images/shapes.PNG',
     tags: ['React','Flask','Tensorflow','Keras'],
     source: 'http://ffat15.herokuapp.com/',
     visit: 'https://medium.com/swlh/league-of-legends-win-prediction-5f5516c4b1d7',
-    id: 3,
+    id: 1,
   },
   {
     title: 'End-to-End Machine Learning',
@@ -24,7 +33,7 @@ export const projects = [
     tags: ['Scikit Learn','Streamlit'],
     source: 'https://medium.com/geekculture/end-to-end-machine-learning-project-6d08b8915bdc',
     visit: 'https://medium.com/geekculture/end-to-end-machine-learning-project-6d08b8915bdc',
-    id: 1,
+    id: 2,
   },
   {
     title: 'Lyft Surge Pricing Prediction',
@@ -33,7 +42,7 @@ export const projects = [
       tags: ['Scikit Learn','imbalanced-learn'],
     source: 'https://medium.com/swlh/lyft-surge-pricing-prediction-aa96114d9e1c',
     visit: 'https://medium.com/swlh/lyft-surge-pricing-prediction-aa96114d9e1c',
-    id: 2,
+    id: 3,
   },
   {
     title: 'League of Legends Outcome Prediction',
@@ -42,8 +51,9 @@ export const projects = [
     tags: ['Scikit Learn','Tensorflow','Riot API','Keras'],
     source: 'http://ffat15.herokuapp.com/',
     visit: 'https://medium.com/swlh/league-of-legends-win-prediction-5f5516c4b1d7',
-    id: 3,
+    id: 1,
   },
+  
 ];
 
 export const TimeLineData = [
