@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/shapes.PNG',
     tags: ['Tensorflow','Keras','LoFi','Music Generation'],
     source: 'https://arturorey.medium.com/how-to-generate-music-using-machine-learning-72360ba4a085',
-    visit: 'https://soundcloud.com/lullabai1',
+    visit: 'https://github.com/AReyH/ai-generated-music',
     id: 3,
   },
   {
@@ -22,8 +22,8 @@ export const projects = [
     description: "Web app created using React as frontend and Flask as backend. The app allows you to draw a shape on a canvas a predicts the shape using a MobileNet V2.0 network architecture. ",
     image: '/images/shapes.PNG',
     tags: ['React','Flask','Tensorflow','Keras'],
-    source: 'http://ffat15.herokuapp.com/',
-    visit: 'https://medium.com/swlh/league-of-legends-win-prediction-5f5516c4b1d7',
+    source: 'https://medium.com/swlh/league-of-legends-win-prediction-5f5516c4b1d7',
+    visit: 'https://github.com/AReyH/shape_prediction',
     id: 1,
   },
   {
@@ -49,8 +49,8 @@ export const projects = [
     description: "Web app created using Streamlit as the open-source app, and Scikit Learn as the open-source ML library. This web app uses a Random Forest classifier to predict the outcome of a game based on accessible information taken from the Riot API.",
     image: '/images/lol.jpg',
     tags: ['Scikit Learn','Tensorflow','Riot API','Keras'],
-    source: 'http://ffat15.herokuapp.com/',
-    visit: 'https://medium.com/swlh/league-of-legends-win-prediction-5f5516c4b1d7',
+    source: 'https://medium.com/swlh/league-of-legends-win-prediction-5f5516c4b1d7',
+    visit: 'https://github.com/AReyH/LoL_Game_Predictor',
     id: 1,
   },
   
