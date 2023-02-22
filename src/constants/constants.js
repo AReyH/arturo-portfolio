@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'PUBLICATION: Design of a hybrid trigeration system and conceptual scheme of a the machinery of a cooling district for Hospital Universidad del Norte',
-    description: "Full stack design of a hybrid trigeration system and the conceptual scheme of a cooling district for a hospital aim to provide an efficient and effective cooling and heating solutions for a hospital environment, which is essential for patient comfort and health.",
+    description: "Full stack design of a hybrid trigeration system and the conceptual scheme of a cooling district for a hospital aimed to provide an efficient and effective cooling and heating solutions for a hospital environment, which is essential for patient comfort and health.",
       image: '/images/facemask.jpg',
       tags: ['Mechanical Engineering', 'Trigeneration', 'Research','Thesis','Design'],
     source: 'https://manglar.uninorte.edu.co/handle/10584/8535',
@@ -66,7 +66,6 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2018, text: 'Started my journey as a Python developer', },
   { year: 2019, text: 'Deployed my first web app', },
   { year: 2020, text: 'Started working as a freelance Data Analyst', },
   { year: 2021, text: 'Published my first article on Medium, and completed Web Development Specialization', },
