@@ -1,14 +1,5 @@
 export const projects = [
   {
-    title: 'Face Mask Detection Web App',
-    description: "Web app using Flask as the backend and Tensorflow as the open-source ML library that allows you to upload an image, and detects whether or not the person in the image is wearing a face mask using a custom network based on the MobileNetV1.0 architecture.",
-      image: '/images/facemask.jpg',
-      tags: ['Flask', 'Tensorflow', 'Keras'],
-    source: 'https://medium.com/mlearning-ai/deploy-a-face-mask-detection-web-app-with-flask-part-1-10c19722bf0',
-    visit: 'https://github.com/AReyH/mask_detection',
-    id: 0,
-  },
-  {
     title: 'Music Generation Using Recurrent Neural Netowrks',
     description: "Recurrent Neural Network trained on a dataset of LoFi songs and sounds, which generates full length LoFi songs which are then uploaded to SoundCloud. Authored article on Medium about the subject, and published by MLearning.ai.",
     image: '/images/shapes.PNG',
@@ -16,6 +7,24 @@ export const projects = [
     source: 'https://arturorey.medium.com/how-to-generate-music-using-machine-learning-72360ba4a085',
     visit: 'https://github.com/AReyH/ai-generated-music',
     id: 3,
+  },
+  {
+    title: 'PUBLICATION: Design of a hybrid trigeration system and conceptual scheme of a the machinery of a cooling district for Hospital Universidad del Norte',
+    description: "Full stack design of a hybrid trigeration system and the conceptual scheme of a cooling district for a hospital aim to provide an efficient and effective cooling and heating solutions for a hospital environment, which is essential for patient comfort and health.",
+      image: '/images/facemask.jpg',
+      tags: ['Mechanical Engineering', 'Trigeneration', 'Research','Thesis','Design'],
+    source: 'https://manglar.uninorte.edu.co/handle/10584/8535',
+    visit: 'https://manglar.uninorte.edu.co/handle/10584/8535',
+    id: 0,
+  },
+  {
+    title: 'Face Mask Detection Web App',
+    description: "Web app using Flask as the backend and Tensorflow as the open-source ML library that allows you to upload an image, and detects whether or not the person in the image is wearing a face mask using a custom network based on the MobileNetV1.0 architecture.",
+      image: '/images/facemask.jpg',
+      tags: ['Flask', 'Tensorflow', 'Keras'],
+    source: 'https://medium.com/mlearning-ai/deploy-a-face-mask-detection-web-app-with-flask-part-1-10c19722bf0',
+    visit: 'https://github.com/AReyH/mask_detection',
+    id: 0,
   },
   {
     title: 'Shape Predictor with Javascript Canvas',
