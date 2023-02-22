@@ -14,7 +14,6 @@ export const projects = [
       image: '/images/facemask.jpg',
       tags: ['Mechanical Engineering', 'Trigeneration', 'Research','Thesis','Design'],
     source: 'https://manglar.uninorte.edu.co/handle/10584/8535',
-    visit: 'https://manglar.uninorte.edu.co/handle/10584/8535',
     id: 0,
   },
   {
