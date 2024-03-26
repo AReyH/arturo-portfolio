@@ -70,6 +70,6 @@ export const TimeLineData = [
   { year: 2020, text: 'Started working as a freelance Data Analyst', },
   { year: 2021, text: 'Published my first article on Medium, and completed Web Development Specialization', },
   { year: 2022, text: "Led Machine Learning for Predictive Maintenance Project. Graduated with Honors Correlation One's Data Science 4 All.", },
-  { year: 2023, text: "Started leading Machine Learning team for daily Natural Gas Prediction for Colombian Caribbean Coast with Colombia's Administrative Department of Science.", },
-  
+  { year: 2023, text: "Started Master of Data Science at UBC. Started leading Machine Learning team for daily Natural Gas Prediction for Colombian Caribbean Coast with Colombia's Administrative Department of Science.", },
+  { year: 2024, text: "Expected to graduate Master of Data Science at UBC. Deployed the Natural Gas Prediction pipeline for 200+ gas stations.", },
 ];
